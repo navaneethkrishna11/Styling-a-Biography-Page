@@ -1,0 +1,75 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header styles */
+header {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-size: 2em;
+}
+
+/* Section styles */
+section {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading styles */
+h1, h2 {
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+/* Personal information styles */
+#personal-info {
+    background-color: #f9f9f9;
+}
+
+/* Education styles */
+#education {
+    background-color: #f2f2f2;
+}
+
+/* Aspirations styles */
+#aspirations {
+    background-color: #f9f9f9;
+}
+
+/* Cricket styles */
+#cricket {
+    background-color: #f2f2f2;
+}
+
+/* Content creation styles */
+#content-creation {
+    background-color: #f9f9f9;
+}
+
+/* Link styles */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+/* Link hover styles */
+a:hover {
+    text-decoration: underline;
+}
